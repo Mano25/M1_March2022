@@ -1,8 +1,8 @@
 # Requriments
 
 ## Introduction
-     The aim of the project is to provide information of the Movie Ticket Booking System to a customer to book tickets. The project has been developed 
-     to carry out process easily and quickly.
+     The aim of the project is to provide information of the Movie Ticket Booking System to a customer to book tickets. The project 
+     has been developed to carry out process easily and quickly.
      
 ## Features
 * Booking tickets
