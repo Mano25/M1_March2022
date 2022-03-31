@@ -16,17 +16,12 @@
 
 #endif /* #define _FUNCTION_H__ */
 
-
-
 int enterchoice(void);
-
 
 void details(void);
 
-
 int ListofMovies(void);
 int movieselect(void);
-
 
 int changepriceticket(int);
 
